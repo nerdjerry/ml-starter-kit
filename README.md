@@ -11,7 +11,7 @@ This repository contains **5 beginner-friendly machine learning projects** built
 | [Twitter/X Sentiment Tracker](notebooks/01_twitter_sentiment_tracker.ipynb) | Analyze tweets to track how public opinion changes over time | ⭐⭐⭐ |
 | [Heart Disease Risk Predictor](notebooks/02_heart_disease_risk_predictor.ipynb) | Predict heart disease risk from patient health measurements | ⭐⭐ |
 | [Wine Quality Classifier](notebooks/03_wine_quality_classifier.ipynb) | Classify wine as good or bad using its chemical properties | ⭐⭐ |
-| [Spam Email Classifier](notebooks/04_spam_email_classifier.ipynb) | Detect spam emails using text features and traditional ML models | ⭐⭐ |
+| [SMS Spam Classifier](notebooks/04_spam_email_classifier.ipynb) | Detect spam text messages using text features and traditional ML models | ⭐⭐ |
 | [Personal Finance Spending Clusters](notebooks/05_personal_finance_spending_clusters.ipynb) | Group spending habits into clusters to find financial patterns | ⭐⭐⭐ |
 
 ---
